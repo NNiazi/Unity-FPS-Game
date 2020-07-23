@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{A60AFD63-14F3-9569-4613-6180986ECAEC}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/AKM.cs" Line="38" Column="24" />
+      <File FileName="Assets/Countdown.cs" Line="29" Column="2" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="55" Column="26" />
+      <File FileName="Assets/Scripts/Target.cs" Line="17" Column="19" />
+      <File FileName="Assets/Scripts/PlayerTarget.cs" Line="29" Column="52" />
+      <File FileName="Assets/Scripts/Singleton.cs" Line="64" Column="2" />
+      <File FileName="Assets/Scripts/PlayerHealthUI.cs" Line="8" Column="31" />
+      <File FileName="Assets/Scripts/GameOver.cs" Line="23" Column="49" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
